@@ -1,2 +1,4 @@
-# ariakarkal.github.io
-Aria Karkal Personal Blog
+# Aria Karkal
+
+Hi, This is Aria Karkal's personal blog!
+
